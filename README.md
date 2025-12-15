@@ -7,18 +7,18 @@ DEX475 - Anypoint Development: API Design Classroom Reference - 251215 - PDT
 Vincent Lowe
 vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
-Trailhead Academy:	https://trailheadacademy.salesforce.com/my-learning
+Trailhead Academy:		https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:     
+Attendance Code:     		BN4YKG
 
-Salesforce Mimeo:     https://salesforce.mimeo.digital/MuleSoft
+Salesforce Mimeo:     		https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:     
+eBook Redemption Key:     	USTVKVSQP7DO
 
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:		https://www.research.net/r/trailheadacademy
+Survey Link:			https://www.research.net/r/trailheadacademy
 
-Survey ID:	         
+Survey ID:	        	TASM-040142 
 
 -------------------------------------------------------------------------------------------------------------------
 
