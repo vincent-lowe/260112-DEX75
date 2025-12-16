@@ -69,6 +69,7 @@ Classroom Playlist
 |You Go to My Head|Louis Armstrong and Oscar Peterson||
 |City of New Orleans|Arlo Guthrie||
 |Tupelo Honey|Reina del Cid|now: Elle Cordova|
+|Lie|Rebecca Loebe|from her album Blink|
 
 
 
