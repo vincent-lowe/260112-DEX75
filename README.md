@@ -65,10 +65,7 @@ Classroom Playlist
 |Taxi (theme song)|Bob James||
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
 |Tupelo Honey|Reina del Cid|now Elle Cordova|
-
-
-
-
+|My Rifle, My Pony, and Me|Ricky Nelson and Dean Martin|from the movie Rio Bravo|
 
 
 
