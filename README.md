@@ -64,7 +64,7 @@ Classroom Playlist
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
-
+|Tupelo Honey|Reina del Cid|now Elle Cordova|
 
 
 
