@@ -1,24 +1,24 @@
-## Student Info for DEX475 (251215)
+## Student Info for DEX475 (260112)
 
 Touch point for students of Dec Mulesoft API Design
 
-DEX475 - Anypoint Development: API Design Classroom Reference - 251215 - PDT
+DEX475 - Anypoint Development: API Design Classroom Reference - 260112 - CDT
 
 Vincent Lowe
 vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:		https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:     		BN4YKG
+Attendance Code:     		
 
 Salesforce Mimeo:     		https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:     	USTVKVSQP7DO
+eBook Redemption Key:     	
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:			https://www.research.net/r/trailheadacademy
 
-Survey ID:	        	TASM-040142 
+Survey ID:	        	
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -64,14 +64,6 @@ Classroom Playlist
 |-----------|------|-----|
 |Taxi (theme song)|Bob James||
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
-|My Rifle, My Pony, and Me|Ricky Nelson and Dean Martin|from the movie Rio Bravo|
-|It Ain't Over Yet|Rodney Crowell||
-|You Go to My Head|Louis Armstrong and Oscar Peterson||
-|City of New Orleans|Arlo Guthrie||
-|Tupelo Honey|Reina del Cid|now: Elle Cordova|
-|Lie|Rebecca Loebe|from her album Blink|
-|Can't Let Go|Lucinda Williams||
-|Have you Ever Seen the Rain|Willie Nelson|with Paula Nelson|
 
 
 
