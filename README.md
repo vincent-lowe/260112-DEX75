@@ -9,16 +9,16 @@ vlowe@salesforce.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:		https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:     		
+Attendance Code:     		WUMIHN
 
 Salesforce Mimeo:     		https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:     	
+eBook Redemption Key:     	USWWB8TVN6LK
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:			https://www.research.net/r/trailheadacademy
 
-Survey ID:	        	
+Survey ID:	        	TASM-041055
 
 -------------------------------------------------------------------------------------------------------------------
 
