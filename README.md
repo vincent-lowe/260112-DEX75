@@ -68,4 +68,7 @@ Classroom Playlist
 |My Rifle, My Pony, and Me|Ricky Nelson and Dean Martin|from the movie Rio Bravo|
 |How Can You Mend a Broken Heart|Al Green||
 |City of New Orleans|Arlo Guthrie||
+|The Streetbeater|Quincy Jones|Theme from TV show Sanford and Son|
+|Sweet Home Alabama|Luca Stricagnoli||
+
 
